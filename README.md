@@ -1,2 +1,2 @@
 # DSA
-Data structures and algorithems studies
+Data structures and algorithms studies
