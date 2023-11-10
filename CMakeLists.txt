@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.25)
+project(DSA)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(DSA
+        main.cpp
+        DynamicProgramming/Memoization/fibonacci.cpp
+        DynamicProgramming/Memoization/gridTravel.cpp
+        DynamicProgramming/Memoization/canSum.cpp
+)
