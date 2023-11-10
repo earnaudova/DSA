@@ -8,4 +8,5 @@ add_executable(DSA
         DynamicProgramming/Memoization/fibonacci.cpp
         DynamicProgramming/Memoization/gridTravel.cpp
         DynamicProgramming/Memoization/canSum.cpp
+        DynamicProgramming/Tabulation/fibonacci.cpp
 )
