@@ -7,8 +7,11 @@
 
     All numbers from the array are positive.
 
-    O(n) time
-    O(n) space
+    m = target
+    n = nums.length()
+
+    O(m*n) time
+    O(m) space
  */
 
 using namespace std;
