@@ -1,14 +1,17 @@
 # ninja log v5
-0	52	1699643612508629889	build.ninja	a2d80a1596cf99e8
-2	436	1699623911423585555	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/Fibonacci.cpp.o	ad400beafe42872d
-2	440	1699623911429530640	CMakeFiles/DSA.dir/main.cpp.o	ce2bb7c058914ea8
-440	474	1699623911463994765	DSA	10fa10261c361ef9
-2	184	1699644382913944528	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o	f4b628f7d0cdb370
-3	185	1699644382913939361	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o	fe520ca581628a1f
-2	563	1699644383292073913	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o	b588fc036b7939b0
-2	608	1699644383337094805	CMakeFiles/DSA.dir/main.cpp.o	ce2bb7c058914ea8
-608	722	1699644383451092516	DSA	7991bf8f2718cc27
-2	473	1699644873390025337	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o	b588fc036b7939b0
+0	52	1699647646132865569	build.ninja	a2d80a1596cf99e8
 2	474	1699644873390019295	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o	f4b628f7d0cdb370
 2	518	1699644873436203972	CMakeFiles/DSA.dir/main.cpp.o	ce2bb7c058914ea8
+2	473	1699644873390025337	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o	b588fc036b7939b0
+3	185	1699644382913939361	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o	fe520ca581628a1f
 518	618	1699644873536265015	DSA	7991bf8f2718cc27
+2	436	1699623911423585555	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/Fibonacci.cpp.o	ad400beafe42872d
+2	206	1699700110631161000	CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o	82d3e05f0f3074dc
+2	502	1699700110926990097	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o	b588fc036b7939b0
+2	503	1699700110926989430	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o	f4b628f7d0cdb370
+2	504	1699700110929966191	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o	fe520ca581628a1f
+0	571	1699700110995310805	CMakeFiles/DSA.dir/main.cpp.o	ce2bb7c058914ea8
+571	693	1699700111118203196	DSA	80fb016f05c6ffbe
+3	604	1699700226645307760	CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o	fe520ca581628a1f
+2	655	1699700226696386730	CMakeFiles/DSA.dir/main.cpp.o	ce2bb7c058914ea8
+655	691	1699700226734067797	DSA	80fb016f05c6ffbe
