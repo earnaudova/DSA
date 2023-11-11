@@ -79,6 +79,12 @@ build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o: CXX_COMP
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
+build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/howSum.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target DSA
@@ -87,7 +93,7 @@ build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o: CXX_COMP
 #############################################
 # Link the executable DSA
 
-build DSA: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/main.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o
+build DSA: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/main.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
   OBJECT_DIR = CMakeFiles/DSA.dir
   POST_BUILD = :

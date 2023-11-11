@@ -8,7 +8,8 @@
 
 /* Dynamic Programming */
 //#include "DynamicProgramming/Memoization/fibonacci.cpp"
-#include "DynamicProgramming/Memoization/canSum.cpp"
+//#include "DynamicProgramming/Memoization/canSum.cpp"
 //#include "DynamicProgramming/Memoization/gridTravel.cpp"
+#include "DynamicProgramming/Memoization/howSum.cpp"
 
 #endif //DSA_PROJECTHEADER_H
