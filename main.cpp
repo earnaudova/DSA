@@ -1,5 +1,7 @@
 #include <iostream>
 #include "projectHeader.h"
+#include <vector>
+#include <string>
 
 using namespace std;
 
