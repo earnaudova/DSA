@@ -10,4 +10,5 @@ add_executable(DSA
         DynamicProgramming/Memoization/canSum.cpp
         DynamicProgramming/Tabulation/fibonacci.cpp
         DynamicProgramming/Memoization/howSum.cpp
+        DynamicProgramming/Memoization/bestSum.cpp
 )
