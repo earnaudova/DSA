@@ -7,13 +7,13 @@ using namespace std;
 
 int main() {
     int m = 3;
-    int n = 8;
-    vector<int> nums = {2, 3, 5};
+    int n = 7;
+    vector<int> nums = {5,3,4,7};
     vector<int> res;
 
     Solution* s = new Solution();
 
-    res = s->howSum(n, nums);
+    res = s->bestSum(n, nums);
     for(int i = 0; i < res.size(); i++){
         cout << res[i] << endl;
     }
