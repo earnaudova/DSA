@@ -12,6 +12,6 @@
 //#include "DynamicProgramming/Memoization/gridTravel.cpp"
 //#include "DynamicProgramming/Memoization/howSum.cpp"
 //#include "DynamicProgramming/Memoization/bestSum.cpp"
-#include "DynamicProgramming/Memoization/bestSum.cpp"
+#include "DynamicProgramming/Memoization/canConstruct.cpp"
 
 #endif //DSA_PROJECTHEADER_H

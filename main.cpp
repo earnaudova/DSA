@@ -9,16 +9,18 @@ int main() {
     int m = 3;
     int n = 7;
     vector<int> nums = {5,3,4,7};
-    vector<int> res;
+    bool res;
+    string str = "abcdef";
+    vector<string> wordBank = {"ab", "abc", "cd", "def", "abcd"};
 
     Solution* s = new Solution();
 
-    res = s->bestSum(n, nums);
-    for(int i = 0; i < res.size(); i++){
-        cout << res[i] << endl;
-    }
+    res = s->canConstruct(str, wordBank);
+//    for(int i = 0; i < res.size(); i++){
+//        cout << res[i] << endl;
+//    }
 
-//    cout << res << endl;
+    cout << res << endl;
 
     return 0;
 }
