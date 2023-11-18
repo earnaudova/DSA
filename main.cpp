@@ -15,7 +15,7 @@ int main() {
 
     Solution* s = new Solution();
 
-    res = s->canConstruct(str, wordBank);
+    res = s->countConstruct(str, wordBank);
 //    for(int i = 0; i < res.size(); i++){
 //        cout << res[i] << endl;
 //    }
