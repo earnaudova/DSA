@@ -8,8 +8,8 @@
     can be constructed by concatenating elements of the
     'wordBank' array.
 
-    m = target
-    n = nums.length()
+    m = target.length()
+    n = wordBank.length()
 
     O() time
     O() space
