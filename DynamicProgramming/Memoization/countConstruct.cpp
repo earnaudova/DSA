@@ -22,7 +22,6 @@ using namespace std;
 class Solution{
 public:
     unordered_map<string, int> memo;
-    int total = 0;
     int countConstruct(string target, vector<string> &wordBank){
         if(memo.count(target)){
             return memo[target];
