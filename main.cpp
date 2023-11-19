@@ -7,15 +7,15 @@ using namespace std;
 
 int main() {
     int m = 3;
-    int n = 3;
-    vector<int> nums = {5,3,4,7};
+    int n = 7;
+    vector<int> nums = {5,3,4};
     int res;
     string str = "purple";
     vector<string> wordBank = {"purp", "p", "ur", "le", "purpl"};
 
     Solution* s = new Solution();
 
-    res = s->gridTraveler(m, n);
+    res = s->canSum(n, nums);
 //    for(int i = 0; i < res.size(); i++){
 //        cout << res[i] << endl;
 //    }
