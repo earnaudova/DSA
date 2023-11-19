@@ -23,9 +23,11 @@ public:
         dp[0] = true;
 
         for(int i = 0; i <= target; i++){
-            for(int j = 0; j < nums.size(); j++){
-                if(dp[i] && i+nums[j] <= target){
-                    dp[i+nums[j]] = true;
+            if(dp[i]){
+                for(int num: nums){
+                    if(i + num <= target){
+                        dp[i+num] = true;
+                    }
                 }
             }
         }
