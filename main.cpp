@@ -9,9 +9,9 @@ int main() {
     int m = 3;
     int n = 7;
     vector<int> nums = {5,3,4,7};
-    bool res;
-    string str = "abcdef";
-    vector<string> wordBank = {"ab", "abc", "cd", "def", "abcd"};
+    int res;
+    string str = "purple";
+    vector<string> wordBank = {"purp", "p", "ur", "le", "purpl"};
 
     Solution* s = new Solution();
 
