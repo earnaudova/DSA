@@ -13,4 +13,5 @@ add_executable(DSA
         DynamicProgramming/Memoization/bestSum.cpp
         DynamicProgramming/Memoization/canConstruct.cpp
         DynamicProgramming/Memoization/countConstruct.cpp
+        DynamicProgramming/Memoization/allConstruct.cpp
 )

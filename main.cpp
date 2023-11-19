@@ -9,18 +9,18 @@ int main() {
     int m = 3;
     int n = 7;
     vector<int> nums = {5,3,4,7};
-    int res;
+    vector<vector<string>> res;
     string str = "purple";
     vector<string> wordBank = {"purp", "p", "ur", "le", "purpl"};
 
     Solution* s = new Solution();
 
-    res = s->countConstruct(str, wordBank);
+    res = s->allConstruct(str, wordBank);
 //    for(int i = 0; i < res.size(); i++){
 //        cout << res[i] << endl;
 //    }
 
-    cout << res << endl;
+    cout << "" << endl;
 
     return 0;
 }
