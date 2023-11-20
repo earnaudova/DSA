@@ -16,4 +16,5 @@ add_executable(DSA
         DynamicProgramming/Memoization/allConstruct.cpp
         DynamicProgramming/Tabulation/gridTraveler.cpp
         DynamicProgramming/Tabulation/canSum.cpp
+        DynamicProgramming/Tabulation/howSum.cpp
 )

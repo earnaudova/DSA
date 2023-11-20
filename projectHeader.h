@@ -17,6 +17,7 @@
 //#include "DynamicProgramming/Memoization/allConstruct.cpp"
 //#include "DynamicProgramming/Tabulation/fibonacci.cpp"
 //#include "DynamicProgramming/Tabulation/gridTraveler.cpp"
-#include "DynamicProgramming/Tabulation/canSum.cpp"
+//#include "DynamicProgramming/Tabulation/canSum.cpp"
+#include "DynamicProgramming/Tabulation/howSum.cpp"
 
 #endif //DSA_PROJECTHEADER_H
