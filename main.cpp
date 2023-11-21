@@ -7,8 +7,8 @@ using namespace std;
 
 int main() {
     int m = 3;
-    int n = 7;
-    vector<int> nums = {5,3,4};
+    int n = 300;
+    vector<int> nums = {7, 14};
     vector<int> res;
     string str = "purple";
     vector<string> wordBank = {"purp", "p", "ur", "le", "purpl"};
