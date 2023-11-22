@@ -15,7 +15,7 @@ int main() {
 
     Solution* s = new Solution();
 
-    res = s->howSum(n, nums);
+    res = s->bestSum(n, nums);
     for(int i = 0; i < res.size(); i++){
         cout << res[i] << endl;
     }
