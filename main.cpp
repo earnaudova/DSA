@@ -6,9 +6,9 @@
 using namespace std;
 
 int main() {
-    int m = 3;
-    int n = 300;
-    vector<int> nums = {7, 14};
+    int m = 8;
+    int n = 8;
+    vector<int> nums = {2, 3, 5};
     vector<int> res;
     string str = "purple";
     vector<string> wordBank = {"purp", "p", "ur", "le", "purpl"};
