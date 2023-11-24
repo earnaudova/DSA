@@ -19,6 +19,7 @@
 //#include "DynamicProgramming/Tabulation/gridTraveler.cpp"
 //#include "DynamicProgramming/Tabulation/canSum.cpp"
 //#include "DynamicProgramming/Tabulation/howSum.cpp"
-#include "DynamicProgramming/Tabulation/bestSum.cpp"
+//#include "DynamicProgramming/Tabulation/bestSum.cpp"
+#include "DynamicProgramming/Tabulation/canPartition.cpp"
 
 #endif //DSA_PROJECTHEADER_H
