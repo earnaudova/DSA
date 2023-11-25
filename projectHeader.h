@@ -7,6 +7,8 @@
 #define DSA_PROJECTHEADER_H
 
 /* Dynamic Programming */
+
+/* Memoization */
 //#include "DynamicProgramming/Memoization/fibonacci.cpp"
 //#include "DynamicProgramming/Memoization/canSum.cpp"
 //#include "DynamicProgramming/Memoization/gridTravel.cpp"
@@ -15,11 +17,14 @@
 //#include "DynamicProgramming/Memoization/canConstruct.cpp"
 //#include "DynamicProgramming/Memoization/countConstruct.cpp"
 //#include "DynamicProgramming/Memoization/allConstruct.cpp"
+
+/* Tabulation */
 //#include "DynamicProgramming/Tabulation/fibonacci.cpp"
 //#include "DynamicProgramming/Tabulation/gridTraveler.cpp"
 //#include "DynamicProgramming/Tabulation/canSum.cpp"
 //#include "DynamicProgramming/Tabulation/howSum.cpp"
 //#include "DynamicProgramming/Tabulation/bestSum.cpp"
-#include "DynamicProgramming/Tabulation/canPartition.cpp"
+//#include "DynamicProgramming/Tabulation/canPartition.cpp"
+#include "DynamicProgramming/Tabulation/coinChange.cpp"
 
 #endif //DSA_PROJECTHEADER_H
