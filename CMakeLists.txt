@@ -20,4 +20,5 @@ add_executable(DSA
         DynamicProgramming/Tabulation/bestSum.cpp
         DynamicProgramming/Tabulation/canPartition.cpp
         DynamicProgramming/Tabulation/coinChange.cpp
+        DynamicProgramming/Memoization/coinChange.cpp
 )
