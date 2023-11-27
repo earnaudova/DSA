@@ -17,7 +17,7 @@
 //#include "DynamicProgramming/Memoization/canConstruct.cpp"
 //#include "DynamicProgramming/Memoization/countConstruct.cpp"
 //#include "DynamicProgramming/Memoization/allConstruct.cpp"
-#include "DynamicProgramming/Memoization/coinChange.cpp"
+//#include "DynamicProgramming/Memoization/coinChange.cpp"
 
 /* Tabulation */
 //#include "DynamicProgramming/Tabulation/fibonacci.cpp"
@@ -26,6 +26,6 @@
 //#include "DynamicProgramming/Tabulation/howSum.cpp"
 //#include "DynamicProgramming/Tabulation/bestSum.cpp"
 //#include "DynamicProgramming/Tabulation/canPartition.cpp"
-//#include "DynamicProgramming/Tabulation/coinChange.cpp"
+#include "DynamicProgramming/Tabulation/coinChange.cpp"
 
 #endif //DSA_PROJECTHEADER_H
