@@ -10,12 +10,12 @@ int main() {
     int n = 11;
     vector<int> nums = {1, 2, 5};
     int res;
-    string str = "purple";
-    vector<string> wordBank = {"purp", "p", "ur", "le", "purpl"};
+    string str = "thehat";
+    vector<string> wordBank = {"with", "example", "science"};
 
     Solution* s = new Solution();
 
-    res = s->coinChange(nums, n);
+    res = s->minStickers(wordBank, str);
 //    for(int i = 0; i < res.size(); i++){
 //        cout << res[i] << endl;
 //    }
