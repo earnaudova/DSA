@@ -13,8 +13,8 @@
  * m = target.length()
  * n = wordBank.length()
  *
- * O() time
- * O() space
+ * O(m*n) time
+ * O(m^2) space
  */
 
 using namespace std;
@@ -22,6 +22,20 @@ using namespace std;
 class Solution {
 public:
     bool canConstruct(string target, vector<string> &wordBank){
-        return false;
+        int size = target.length();
+        vector<bool> dp(size+1, false);
+        dp[0] = true;
+
+        for(int i = 0; i <= size; i++){
+            if(dp[i]){
+                for(auto word: wordBank){
+                    if(target.substr(i, i + word.length()) == word && i + word.length()-1 <= size){
+                        dp[i+word.length()] = true;
+                    }
+                }
+            }
+        }
+
+        return dp[target.length()];
     }
 };

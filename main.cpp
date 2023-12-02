@@ -9,13 +9,13 @@ int main() {
     int m = 8;
     int n = 11;
     vector<int> nums = {1, 2, 5};
-    int res;
-    string str = "thehat";
-    vector<string> wordBank = {"with", "example", "science"};
+    bool res;
+    string str = "skateboard";
+    vector<string> wordBank = {"bo", "rd", "ate", "t", "ska", "sk", "boar"};
 
     Solution* s = new Solution();
 
-    res = s->minStickers(wordBank, str);
+    res = s->canConstruct(str, wordBank);
 //    for(int i = 0; i < res.size(); i++){
 //        cout << res[i] << endl;
 //    }
