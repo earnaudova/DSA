@@ -23,4 +23,5 @@ add_executable(DSA
         DynamicProgramming/Memoization/coinChange.cpp
         DynamicProgramming/Memoization/minStickers.cpp
         DynamicProgramming/Tabulation/canConstruct.cpp
+        DynamicProgramming/Tabulation/countConstruct.cpp
 )
