@@ -13,8 +13,8 @@
     m = target.length()
     n = wordBank.length()
 
-    O() time
-    O() space
+    O(m*n) time
+    O(m) space
  */
 
 using namespace std;
@@ -22,6 +22,20 @@ using namespace std;
 class Solution{
 public:
     int countConstruct(string target, vector<string> &wordBank){
-        return 0;
+        vector<int> dp(target.length()+1, 0);
+        dp[0] = 1;
+
+        for(int i = 0; i <= target.length(); i++){
+            if(dp[i] != 0){
+                for(auto word:wordBank){
+                    string str = target.substr(i, word.length());
+                    if(str == word){
+                        dp[i+word.length()] += dp[i];
+                    }
+                }
+            }
+        }
+
+        return dp[target.length()];
     }
 };

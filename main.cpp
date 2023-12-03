@@ -9,13 +9,13 @@ int main() {
     int m = 8;
     int n = 11;
     vector<int> nums = {1, 2, 5};
-    bool res;
-    string str = "skateboard";
-    vector<string> wordBank = {"bo", "rd", "ate", "t", "ska", "sk", "boar"};
+    int res;
+    string str = "purple";
+    vector<string> wordBank = {"purp", "p", "ur", "le", "purpl"};
 
     Solution* s = new Solution();
 
-    res = s->canConstruct(str, wordBank);
+    res = s->countConstruct(str, wordBank);
 //    for(int i = 0; i < res.size(); i++){
 //        cout << res[i] << endl;
 //    }
