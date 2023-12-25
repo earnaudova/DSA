@@ -29,6 +29,13 @@
 //#include "DynamicProgramming/Tabulation/canPartition.cpp"
 //#include "DynamicProgramming/Tabulation/coinChange.cpp"
 //#include "DynamicProgramming/Tabulation/canConstruct.cpp"
-#include "DynamicProgramming/Tabulation/countConstruct.cpp"
+//#include "DynamicProgramming/Tabulation/countConstruct.cpp"
+#include "DynamicProgramming/Tabulation/allConstruct.cpp"
+
+/* Searching and Sorting */
+
+/* A* Search Algorithm */
+#include "SearchingAndSorting/AStarSearch/astarsearch.cpp"
+
 
 #endif //DSA_PROJECTHEADER_H

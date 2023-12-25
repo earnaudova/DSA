@@ -24,4 +24,7 @@ add_executable(DSA
         DynamicProgramming/Memoization/minStickers.cpp
         DynamicProgramming/Tabulation/canConstruct.cpp
         DynamicProgramming/Tabulation/countConstruct.cpp
+        DynamicProgramming/Tabulation/allConstruct.cpp
+        SearchingAndSorting/AStarSearch/astarsearch.cpp
+        SearchingAndSorting/AStarSearch/test.cpp
 )
