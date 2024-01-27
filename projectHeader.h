@@ -6,6 +6,14 @@
 #ifndef DSA_PROJECTHEADER_H
 #define DSA_PROJECTHEADER_H
 
+/* Graph */
+//#include "Graph/dfs.cpp"
+//#include "Graph/bfs.cpp"
+//#include "Graph/hasPath.cpp"
+//#include "Graph/undirectedPath.cpp"
+#include "Graph/connectedComponentsCount.cpp"
+
+
 /* Dynamic Programming */
 
 /* Memoization */
@@ -30,12 +38,12 @@
 //#include "DynamicProgramming/Tabulation/coinChange.cpp"
 //#include "DynamicProgramming/Tabulation/canConstruct.cpp"
 //#include "DynamicProgramming/Tabulation/countConstruct.cpp"
-#include "DynamicProgramming/Tabulation/allConstruct.cpp"
+//#include "DynamicProgramming/Tabulation/allConstruct.cpp"
 
 /* Searching and Sorting */
 
 /* A* Search Algorithm */
-#include "SearchingAndSorting/AStarSearch/astarsearch.cpp"
+//#include "SearchingAndSorting/AStarSearch/astarsearch.cpp"
 
 
 #endif //DSA_PROJECTHEADER_H

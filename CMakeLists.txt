@@ -27,4 +27,11 @@ add_executable(DSA
         DynamicProgramming/Tabulation/allConstruct.cpp
         SearchingAndSorting/AStarSearch/astarsearch.cpp
         SearchingAndSorting/AStarSearch/test.cpp
+        SearchingAndSorting/AStarSearch/testing.cpp
+        Graph/dfs.cpp
+        Graph/bfs.cpp
+        Graph/hasPath.cpp
+        Graph/undirectedPath.cpp
+        Graph/connectedComponentsCount.cpp
+        Graph/largestComponent.cpp
 )
