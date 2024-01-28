@@ -34,4 +34,7 @@ add_executable(DSA
         Graph/undirectedPath.cpp
         Graph/connectedComponentsCount.cpp
         Graph/largestComponent.cpp
+        Graph/shortestPath.cpp
+        Graph/islandCount.cpp
+        Graph/minimumIsland.cpp
 )

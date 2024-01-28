@@ -18,7 +18,7 @@ public:
         return max_count;
     }
 
-    int dfs(unordered_map<int, vector<int>> &graph, unordered_set<int> visited, int node){
+    int dfs(unordered_map<int, vector<int>> &graph, unordered_set<int> &visited, int node){
         if(visited.count(node)){
             return 0;
         }

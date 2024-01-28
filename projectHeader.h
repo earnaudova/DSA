@@ -6,13 +6,19 @@
 #ifndef DSA_PROJECTHEADER_H
 #define DSA_PROJECTHEADER_H
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
 /* Graph */
 //#include "Graph/dfs.cpp"
 //#include "Graph/bfs.cpp"
 //#include "Graph/hasPath.cpp"
 //#include "Graph/undirectedPath.cpp"
-#include "Graph/connectedComponentsCount.cpp"
+//#include "Graph/connectedComponentsCount.cpp"
+//#include "Graph/shortestPath.cpp"
+//#include "Graph/islandCount.cpp"
+#include "Graph/minimumIsland.cpp"
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 /* Dynamic Programming */
 
@@ -40,10 +46,13 @@
 //#include "DynamicProgramming/Tabulation/countConstruct.cpp"
 //#include "DynamicProgramming/Tabulation/allConstruct.cpp"
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
 /* Searching and Sorting */
 
 /* A* Search Algorithm */
 //#include "SearchingAndSorting/AStarSearch/astarsearch.cpp"
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 #endif //DSA_PROJECTHEADER_H
