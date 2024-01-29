@@ -37,4 +37,10 @@ add_executable(DSA
         Graph/shortestPath.cpp
         Graph/islandCount.cpp
         Graph/minimumIsland.cpp
+        "Tree/Binary Tree/depthFirstValues.cpp"
+        "Tree/Binary Tree/breadthFirstValues.cpp"
+        "Tree/Binary Tree/treeInclude.cpp"
+        "Tree/Binary Tree/treeSum.cpp"
+        "Tree/Binary Tree/treeMinValue.cpp"
+        "Tree/Binary Tree/maxPathSum.cpp"
 )
