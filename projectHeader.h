@@ -8,6 +8,18 @@
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
+/*Tree*/
+
+/*BinaryTree*/
+//#include "Tree/BinaryTree/depthFirstValues.cpp"
+//#include "Tree/BinaryTree/breadthFirstValues.cpp"
+//#include "Tree/BinaryTree/maxPathSum.cpp"
+//#include "Tree/BinaryTree/treeInclude.cpp"
+//#include "Tree/BinaryTree/treeMinValue.cpp"
+//#include "Tree/BinaryTree/treeSum.cpp"
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
 /* Graph */
 //#include "Graph/dfs.cpp"
 //#include "Graph/bfs.cpp"
@@ -16,7 +28,7 @@
 //#include "Graph/connectedComponentsCount.cpp"
 //#include "Graph/shortestPath.cpp"
 //#include "Graph/islandCount.cpp"
-#include "Graph/minimumIsland.cpp"
+//#include "Graph/minimumIsland.cpp"
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 

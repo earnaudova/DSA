@@ -229,6 +229,60 @@ build CMakeFiles/DSA.dir/Graph/largestComponent.cpp.o: CXX_COMPILER__DSA_unscann
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
+build CMakeFiles/DSA.dir/Graph/shortestPath.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/shortestPath.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Graph/shortestPath.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
+
+build CMakeFiles/DSA.dir/Graph/islandCount.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/islandCount.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Graph/islandCount.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
+
+build CMakeFiles/DSA.dir/Graph/minimumIsland.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/minimumIsland.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Graph/minimumIsland.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
+
+build CMakeFiles/DSA.dir/Tree/Binary_Tree/depthFirstValues.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/Binary$ Tree/depthFirstValues.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Tree/Binary_Tree/depthFirstValues.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/Binary_Tree
+
+build CMakeFiles/DSA.dir/Tree/Binary_Tree/breadthFirstValues.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/Binary$ Tree/breadthFirstValues.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Tree/Binary_Tree/breadthFirstValues.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/Binary_Tree
+
+build CMakeFiles/DSA.dir/Tree/Binary_Tree/treeInclude.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/Binary$ Tree/treeInclude.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Tree/Binary_Tree/treeInclude.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/Binary_Tree
+
+build CMakeFiles/DSA.dir/Tree/Binary_Tree/treeSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/Binary$ Tree/treeSum.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Tree/Binary_Tree/treeSum.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/Binary_Tree
+
+build CMakeFiles/DSA.dir/Tree/Binary_Tree/treeMinValue.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/Binary$ Tree/treeMinValue.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Tree/Binary_Tree/treeMinValue.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/Binary_Tree
+
+build CMakeFiles/DSA.dir/Tree/Binary_Tree/maxPathSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/Binary$ Tree/maxPathSum.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Tree/Binary_Tree/maxPathSum.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/Binary_Tree
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target DSA
@@ -237,7 +291,7 @@ build CMakeFiles/DSA.dir/Graph/largestComponent.cpp.o: CXX_COMPILER__DSA_unscann
 #############################################
 # Link the executable DSA
 
-build DSA: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/main.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/bestSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/countConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/allConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/gridTraveler.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/howSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/bestSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canPartition.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/coinChange.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/coinChange.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/minStickers.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/countConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/allConstruct.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/astarsearch.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/test.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/testing.cpp.o CMakeFiles/DSA.dir/Graph/dfs.cpp.o CMakeFiles/DSA.dir/Graph/bfs.cpp.o CMakeFiles/DSA.dir/Graph/hasPath.cpp.o CMakeFiles/DSA.dir/Graph/undirectedPath.cpp.o CMakeFiles/DSA.dir/Graph/connectedComponentsCount.cpp.o CMakeFiles/DSA.dir/Graph/largestComponent.cpp.o
+build DSA: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/main.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/bestSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/countConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/allConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/gridTraveler.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/howSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/bestSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canPartition.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/coinChange.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/coinChange.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/minStickers.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/countConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/allConstruct.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/astarsearch.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/test.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/testing.cpp.o CMakeFiles/DSA.dir/Graph/dfs.cpp.o CMakeFiles/DSA.dir/Graph/bfs.cpp.o CMakeFiles/DSA.dir/Graph/hasPath.cpp.o CMakeFiles/DSA.dir/Graph/undirectedPath.cpp.o CMakeFiles/DSA.dir/Graph/connectedComponentsCount.cpp.o CMakeFiles/DSA.dir/Graph/largestComponent.cpp.o CMakeFiles/DSA.dir/Graph/shortestPath.cpp.o CMakeFiles/DSA.dir/Graph/islandCount.cpp.o CMakeFiles/DSA.dir/Graph/minimumIsland.cpp.o CMakeFiles/DSA.dir/Tree/Binary_Tree/depthFirstValues.cpp.o CMakeFiles/DSA.dir/Tree/Binary_Tree/breadthFirstValues.cpp.o CMakeFiles/DSA.dir/Tree/Binary_Tree/treeInclude.cpp.o CMakeFiles/DSA.dir/Tree/Binary_Tree/treeSum.cpp.o CMakeFiles/DSA.dir/Tree/Binary_Tree/treeMinValue.cpp.o CMakeFiles/DSA.dir/Tree/Binary_Tree/maxPathSum.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/DSA.dir
   POST_BUILD = :
