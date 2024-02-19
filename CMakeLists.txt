@@ -43,4 +43,5 @@ add_executable(DSA
         "Tree/BinaryTree/treeSum.cpp"
         "Tree/BinaryTree/treeMinValue.cpp"
         "Tree/BinaryTree/maxPathSum.cpp"
+        Graph/islandPerimeter.cpp
 )
