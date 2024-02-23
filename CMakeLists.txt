@@ -44,4 +44,6 @@ add_executable(DSA
         "Tree/BinaryTree/treeMinValue.cpp"
         "Tree/BinaryTree/maxPathSum.cpp"
         Graph/islandPerimeter.cpp
+        InterviewQuestions/MinOddNum.cpp
+        InterviewQuestions/WordPredictor.cpp
 )
