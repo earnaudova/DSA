@@ -52,4 +52,12 @@ add_executable(DSA
         LinkedList/ReverseLinkedList.cpp
         LinkedList/LinkedListVals.cpp
         LinkedList/MaxElement.cpp
+        Tree/BinaryTree/inorderTravers.cpp
+        Tree/BinaryTree/preorderTravers.cpp
+        Tree/BinaryTree/postorderTravers.cpp
+        Tree/BinaryTree/invertBinaryTree.cpp
+        Tree/BinaryTree/maxDepth.cpp
+        Tree/BinaryTree/diameterOfBT.cpp
+        Tree/BinaryTree/isSubtree.cpp
+        Tree/BinaryTree/sortedArrayToBST.cpp
 )
