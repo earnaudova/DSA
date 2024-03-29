@@ -51,255 +51,291 @@ build cmake_object_order_depends_target_DSA: phony || CMakeFiles/DSA.dir
 
 build CMakeFiles/DSA.dir/main.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/main.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/main.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/fibonacci.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/gridTravel.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/canSum.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/fibonacci.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/howSum.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/bestSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/bestSum.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/bestSum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canConstruct.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/canConstruct.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canConstruct.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/countConstruct.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/countConstruct.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/countConstruct.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/allConstruct.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/allConstruct.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/allConstruct.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/gridTraveler.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/gridTraveler.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/gridTraveler.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/canSum.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canSum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/howSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/howSum.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/howSum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/bestSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/bestSum.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/bestSum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canPartition.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/canPartition.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canPartition.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/coinChange.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/coinChange.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/coinChange.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/coinChange.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/coinChange.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/coinChange.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Memoization/minStickers.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Memoization/minStickers.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Memoization/minStickers.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Memoization
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canConstruct.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/canConstruct.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canConstruct.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/countConstruct.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/countConstruct.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/countConstruct.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/allConstruct.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/DynamicProgramming/Tabulation/allConstruct.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/allConstruct.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/DynamicProgramming/Tabulation
 
 build CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/astarsearch.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/SearchingAndSorting/AStarSearch/astarsearch.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/astarsearch.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch
 
 build CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/test.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/SearchingAndSorting/AStarSearch/test.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/test.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch
 
 build CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/testing.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/SearchingAndSorting/AStarSearch/testing.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/testing.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch
 
 build CMakeFiles/DSA.dir/Graph/dfs.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/dfs.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/dfs.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Graph/bfs.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/bfs.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/bfs.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Graph/hasPath.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/hasPath.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/hasPath.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Graph/undirectedPath.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/undirectedPath.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/undirectedPath.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Graph/connectedComponentsCount.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/connectedComponentsCount.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/connectedComponentsCount.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Graph/largestComponent.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/largestComponent.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/largestComponent.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Graph/shortestPath.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/shortestPath.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/shortestPath.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Graph/islandCount.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/islandCount.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/islandCount.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Graph/minimumIsland.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/minimumIsland.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/minimumIsland.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
 build CMakeFiles/DSA.dir/Tree/BinaryTree/depthFirstValues.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/BinaryTree/depthFirstValues.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Tree/BinaryTree/depthFirstValues.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/BinaryTree
 
 build CMakeFiles/DSA.dir/Tree/BinaryTree/breadthFirstValues.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/BinaryTree/breadthFirstValues.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Tree/BinaryTree/breadthFirstValues.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/BinaryTree
 
 build CMakeFiles/DSA.dir/Tree/BinaryTree/treeInclude.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/BinaryTree/treeInclude.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Tree/BinaryTree/treeInclude.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/BinaryTree
 
 build CMakeFiles/DSA.dir/Tree/BinaryTree/treeSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/BinaryTree/treeSum.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Tree/BinaryTree/treeSum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/BinaryTree
 
 build CMakeFiles/DSA.dir/Tree/BinaryTree/treeMinValue.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/BinaryTree/treeMinValue.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Tree/BinaryTree/treeMinValue.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/BinaryTree
 
 build CMakeFiles/DSA.dir/Tree/BinaryTree/maxPathSum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Tree/BinaryTree/maxPathSum.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Tree/BinaryTree/maxPathSum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Tree/BinaryTree
 
 build CMakeFiles/DSA.dir/Graph/islandPerimeter.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Graph/islandPerimeter.cpp || cmake_object_order_depends_target_DSA
   DEP_FILE = CMakeFiles/DSA.dir/Graph/islandPerimeter.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
   OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Graph
 
-build CMakeFiles/DSA.dir/GoogleInterview/MinOddNum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/GoogleInterview/MinOddNum.cpp || cmake_object_order_depends_target_DSA
-  DEP_FILE = CMakeFiles/DSA.dir/GoogleInterview/MinOddNum.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+build CMakeFiles/DSA.dir/InterviewQuestions/MinOddNum.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/InterviewQuestions/MinOddNum.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/InterviewQuestions/MinOddNum.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
-  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GoogleInterview
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/InterviewQuestions
 
-build CMakeFiles/DSA.dir/GoogleInterview/WordPredictor.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/GoogleInterview/WordPredictor.cpp || cmake_object_order_depends_target_DSA
-  DEP_FILE = CMakeFiles/DSA.dir/GoogleInterview/WordPredictor.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+build CMakeFiles/DSA.dir/InterviewQuestions/WordPredictor.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/InterviewQuestions/WordPredictor.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/InterviewQuestions/WordPredictor.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/DSA.dir
-  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/GoogleInterview
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/InterviewQuestions
+
+build CMakeFiles/DSA.dir/Stack/BaseballGame.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/Stack/BaseballGame.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/Stack/BaseballGame.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/Stack
+
+build CMakeFiles/DSA.dir/LinkedList/SwapNodesInPairs.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/LinkedList/SwapNodesInPairs.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/LinkedList/SwapNodesInPairs.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/LinkedList
+
+build CMakeFiles/DSA.dir/LinkedList/SortList.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/LinkedList/SortList.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/LinkedList/SortList.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/LinkedList
+
+build CMakeFiles/DSA.dir/LinkedList/ReverseLinkedList.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/LinkedList/ReverseLinkedList.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/LinkedList/ReverseLinkedList.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/LinkedList
+
+build CMakeFiles/DSA.dir/LinkedList/LinkedListVals.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/LinkedList/LinkedListVals.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/LinkedList/LinkedListVals.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/LinkedList
+
+build CMakeFiles/DSA.dir/LinkedList/MaxElement.cpp.o: CXX_COMPILER__DSA_unscanned_Debug /Users/elenaarnaudova/CLionProjects/DSA/LinkedList/MaxElement.cpp || cmake_object_order_depends_target_DSA
+  DEP_FILE = CMakeFiles/DSA.dir/LinkedList/MaxElement.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/DSA.dir
+  OBJECT_FILE_DIR = CMakeFiles/DSA.dir/LinkedList
 
 
 # =============================================================================
@@ -309,8 +345,8 @@ build CMakeFiles/DSA.dir/GoogleInterview/WordPredictor.cpp.o: CXX_COMPILER__DSA_
 #############################################
 # Link the executable DSA
 
-build DSA: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/main.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/bestSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/countConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/allConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/gridTraveler.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/howSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/bestSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canPartition.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/coinChange.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/coinChange.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/minStickers.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/countConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/allConstruct.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/astarsearch.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/test.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/testing.cpp.o CMakeFiles/DSA.dir/Graph/dfs.cpp.o CMakeFiles/DSA.dir/Graph/bfs.cpp.o CMakeFiles/DSA.dir/Graph/hasPath.cpp.o CMakeFiles/DSA.dir/Graph/undirectedPath.cpp.o CMakeFiles/DSA.dir/Graph/connectedComponentsCount.cpp.o CMakeFiles/DSA.dir/Graph/largestComponent.cpp.o CMakeFiles/DSA.dir/Graph/shortestPath.cpp.o CMakeFiles/DSA.dir/Graph/islandCount.cpp.o CMakeFiles/DSA.dir/Graph/minimumIsland.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/depthFirstValues.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/breadthFirstValues.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/treeInclude.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/treeSum.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/treeMinValue.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/maxPathSum.cpp.o CMakeFiles/DSA.dir/Graph/islandPerimeter.cpp.o CMakeFiles/DSA.dir/GoogleInterview/MinOddNum.cpp.o CMakeFiles/DSA.dir/GoogleInterview/WordPredictor.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+build DSA: CXX_EXECUTABLE_LINKER__DSA_Debug CMakeFiles/DSA.dir/main.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/gridTravel.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/fibonacci.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/howSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/bestSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/canConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/countConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/allConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/gridTraveler.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/howSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/bestSum.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canPartition.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/coinChange.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/coinChange.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Memoization/minStickers.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/canConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/countConstruct.cpp.o CMakeFiles/DSA.dir/DynamicProgramming/Tabulation/allConstruct.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/astarsearch.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/test.cpp.o CMakeFiles/DSA.dir/SearchingAndSorting/AStarSearch/testing.cpp.o CMakeFiles/DSA.dir/Graph/dfs.cpp.o CMakeFiles/DSA.dir/Graph/bfs.cpp.o CMakeFiles/DSA.dir/Graph/hasPath.cpp.o CMakeFiles/DSA.dir/Graph/undirectedPath.cpp.o CMakeFiles/DSA.dir/Graph/connectedComponentsCount.cpp.o CMakeFiles/DSA.dir/Graph/largestComponent.cpp.o CMakeFiles/DSA.dir/Graph/shortestPath.cpp.o CMakeFiles/DSA.dir/Graph/islandCount.cpp.o CMakeFiles/DSA.dir/Graph/minimumIsland.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/depthFirstValues.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/breadthFirstValues.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/treeInclude.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/treeSum.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/treeMinValue.cpp.o CMakeFiles/DSA.dir/Tree/BinaryTree/maxPathSum.cpp.o CMakeFiles/DSA.dir/Graph/islandPerimeter.cpp.o CMakeFiles/DSA.dir/InterviewQuestions/MinOddNum.cpp.o CMakeFiles/DSA.dir/InterviewQuestions/WordPredictor.cpp.o CMakeFiles/DSA.dir/Stack/BaseballGame.cpp.o CMakeFiles/DSA.dir/LinkedList/SwapNodesInPairs.cpp.o CMakeFiles/DSA.dir/LinkedList/SortList.cpp.o CMakeFiles/DSA.dir/LinkedList/ReverseLinkedList.cpp.o CMakeFiles/DSA.dir/LinkedList/LinkedListVals.cpp.o CMakeFiles/DSA.dir/LinkedList/MaxElement.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/DSA.dir
   POST_BUILD = :
   PRE_LINK = :

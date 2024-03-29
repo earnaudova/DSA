@@ -46,4 +46,10 @@ add_executable(DSA
         Graph/islandPerimeter.cpp
         InterviewQuestions/MinOddNum.cpp
         InterviewQuestions/WordPredictor.cpp
+        Stack/BaseballGame.cpp
+        LinkedList/SwapNodesInPairs.cpp
+        LinkedList/SortList.cpp
+        LinkedList/ReverseLinkedList.cpp
+        LinkedList/LinkedListVals.cpp
+        LinkedList/MaxElement.cpp
 )
